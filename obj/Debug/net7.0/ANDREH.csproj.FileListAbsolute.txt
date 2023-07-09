@@ -1,0 +1,15 @@
+C:\Users\juanm\OneDrive\Escritorio\ANDREH\bin\Debug\net7.0\ANDREH.exe
+C:\Users\juanm\OneDrive\Escritorio\ANDREH\bin\Debug\net7.0\ANDREH.deps.json
+C:\Users\juanm\OneDrive\Escritorio\ANDREH\bin\Debug\net7.0\ANDREH.runtimeconfig.json
+C:\Users\juanm\OneDrive\Escritorio\ANDREH\bin\Debug\net7.0\ANDREH.dll
+C:\Users\juanm\OneDrive\Escritorio\ANDREH\bin\Debug\net7.0\ANDREH.pdb
+C:\Users\juanm\OneDrive\Escritorio\ANDREH\obj\Debug\net7.0\ANDREH.csproj.AssemblyReference.cache
+C:\Users\juanm\OneDrive\Escritorio\ANDREH\obj\Debug\net7.0\ANDREH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\OneDrive\Escritorio\ANDREH\obj\Debug\net7.0\ANDREH.AssemblyInfoInputs.cache
+C:\Users\juanm\OneDrive\Escritorio\ANDREH\obj\Debug\net7.0\ANDREH.AssemblyInfo.cs
+C:\Users\juanm\OneDrive\Escritorio\ANDREH\obj\Debug\net7.0\ANDREH.csproj.CoreCompileInputs.cache
+C:\Users\juanm\OneDrive\Escritorio\ANDREH\obj\Debug\net7.0\ANDREH.dll
+C:\Users\juanm\OneDrive\Escritorio\ANDREH\obj\Debug\net7.0\refint\ANDREH.dll
+C:\Users\juanm\OneDrive\Escritorio\ANDREH\obj\Debug\net7.0\ANDREH.pdb
+C:\Users\juanm\OneDrive\Escritorio\ANDREH\obj\Debug\net7.0\ANDREH.genruntimeconfig.cache
+C:\Users\juanm\OneDrive\Escritorio\ANDREH\obj\Debug\net7.0\ref\ANDREH.dll
