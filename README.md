@@ -1,7 +1,7 @@
 # PROYECTOasd 
 
-• Introducción
-• Importancia de las letras en la comunicación
+• Introducción:
+• Importancia de las letras en la comunicación.
    • Las letras como elementos fundamentales del lenguaje escrito
    • Su papel en la expresión de ideas y emociones
 • Estructura de una letra
